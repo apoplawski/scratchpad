@@ -2,4 +2,4 @@
 2. `run-spark.py` - runs Spark interactively
 3. `shuffle-data.py` - modifies random row twice with delay in between
 
-To run this example, one could use local MongoDB ReplicaSet using [this docker compose file](https://github.com/UpSync-Dev/docker-compose-mongo-replica-set)
+To run this example locally, one could use [this docker compose file](https://github.com/UpSync-Dev/docker-compose-mongo-replica-set) to run MongoDB replicaset.
